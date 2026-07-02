@@ -12,7 +12,7 @@ Once you are in the repository's folder, quicky create a virtual environment for
 python -m venv .venv
 ```
 
-`source` your virtual environment:
+`source` your virtual environment into the shell:
 
 ```bash
 source .venv/bin/activate
