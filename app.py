@@ -9,7 +9,7 @@ def home():
 def hello():
     # INTENTIONAL BUG, fix it 
     # 'greeting' is misspelled below as 'greetng' to throw a NameError
-    greetng = "You did it!" 
+    greeting = "You did it!" 
     return f"<h1>{greeting}</h1>"
 
 if __name__ == '__main__':
